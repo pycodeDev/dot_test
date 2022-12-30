@@ -1,0 +1,63 @@
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:16:08.3469"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:18:53.5751"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:19:39.5106"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:20:26.3891"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:21:03.5969"}
+{"func":"RepoUserImpl.UserLogin","level":"error","msg":"Error 1146: Table 'db_dot_test.users' doesn't exist","script":"select user by email","time":"2022-12-30 00:24:38.2758"}
+{"func":"RepoUserImpl.UserDetail","level":"error","msg":"Error 1146: Table 'db_dot_test.tbl_user' doesn't exist","script":"update user device id","time":"2022-12-30 00:25:37.1218"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:26:44.8939"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:46:43.5071"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:47:15.6328"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:47:30.5043"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:47:53.5809"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:55:12.5615"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:55:45.7182"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:56:06.8662"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:56:22.4621"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:56:40.9419"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:56:59.3201"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:58:39.6462"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 00:59:14.1319"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 01:10:43.4877"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 01:11:21.4110"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 01:32:18.5120"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:01:18.0764"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:01:34.6613"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:02:52.1674"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:04:39.2267"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:05:09.3392"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:06:05.3841"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:06:24.4760"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:06:48.0672"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:07:04.0290"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:15:04.4932"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:15:55.7869"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:16:24.1568"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:17:38.1919"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:18:15.5620"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:21:34.8702"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:22:24.5627"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:24:20.4809"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:26:53.7826"}
+{"func":"RepoUserImpl.UserLogin","level":"error","msg":"sql: expected 2 arguments, got 3","script":"select user by password","time":"2022-12-30 02:30:25.9385"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:30:57.3857"}
+{"func":"RepoBukuImpl.InsertBuku","level":"error","msg":"Error 1146: Table 'db_dot_test.tbl_buku' doesn't exist","script":"insert buku","time":"2022-12-30 02:35:01.6101"}
+{"func":"RepoBukuImpl.InsertBuku","level":"error","msg":"Error 1364: Field 'created_at' doesn't have a default value","script":"insert buku","time":"2022-12-30 02:35:24.8954"}
+{"func":"RepoBukuImpl.InsertBuku","level":"error","msg":"Error 1364: Field 'created_at' doesn't have a default value","script":"insert buku","time":"2022-12-30 02:35:58.7443"}
+{"func":"RepoBukuImpl.InsertBuku","level":"error","msg":"Error 1364: Field 'created_at' doesn't have a default value","script":"insert buku","time":"2022-12-30 02:37:47.5146"}
+{"func":"RepoBukuImpl.UpdateBuku","level":"error","msg":"Error 1292: Incorrect datetime value: '' for column 'created_at' at row 1","script":"update buku","time":"2022-12-30 02:43:49.6631"}
+{"func":"RepoBukuImpl.UpdateBuku","level":"error","msg":"Error 1054: Unknown column 'name' in 'field list'","script":"update buku","time":"2022-12-30 02:44:29.8544"}
+{"func":"RepoPeminjamanImpl.InsertPeminjaman","level":"error","msg":"Error 1146: Table 'db_dot_test.tbl_buku' doesn't exist","script":"select buku","time":"2022-12-30 02:48:27.9135"}
+{"func":"RepoPeminjamanImpl.InsertPeminjaman","level":"error","msg":"Error 1364: Field 'id_user' doesn't have a default value","script":"insert peminjaman","time":"2022-12-30 02:49:09.6437"}
+{"func":"RepoPeminjamanImpl.InsertPeminjaman","level":"error","msg":"Error 1364: Field 'id_user' doesn't have a default value","script":"insert peminjaman","time":"2022-12-30 02:49:35.1585"}
+{"func":"RepoPeminjamanImpl.ListPeminjaman","level":"error","msg":"Error 1054: Unknown column 'u.nama' in 'field list'","script":"select buku","time":"2022-12-30 02:51:19.3243"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 02:51:43.0278"}
+{"func":"RepoPeminjamanImpl.ListPeminjaman","level":"error","msg":"Error 1052: Column 'id' in field list is ambiguous","script":"select buku","time":"2022-12-30 02:58:13.3849"}
+{"func":"RepoPeminjamanImpl.ListPeminjaman","level":"error","msg":"Error 1054: Unknown column 'peminjamans.id' in 'field list'","script":"select buku","time":"2022-12-30 02:58:34.2768"}
+{"func":"RepoPeminjamanImpl.ListPeminjaman","level":"error","msg":"Error 1054: Unknown column 'peminajamans.id_buku' in 'on clause'","script":"select buku","time":"2022-12-30 02:59:06.7737"}
+{"func":"RepoUserImpl.UserUpdate","level":"error","msg":"Error 1054: Unknown column 'email' in 'field list'","script":"update user","time":"2022-12-30 03:08:17.0798"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 03:20:58.6081"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 03:21:02.1767"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 03:21:58.2088"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 03:26:41.2667"}
+{"funcNow":"Main","level":"error","msg":"runtime error: invalid memory address or nil pointer dereference","time":"2022-12-30 03:28:18.5306"}

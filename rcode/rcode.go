@@ -1,0 +1,21 @@
+package rcode
+
+const TRX_SUCCESS = 00
+const TRX_TIMEOUT = 01
+const TRX_GAGAL = 02
+const TRX_PENDING = 03
+
+//WEB RC RESPONSE
+const RESPONSE_SUCCESS = 200
+
+const PAYLOAD_NOT_VALID = 400
+const UNAUTHORIZED = 401
+const PAGE_NOT_FOUND = 404
+const ACCESS_FORBIDDEN = 403
+const INPUT_NOT_VALID = 422
+
+const INTERNAL_ERROR = 500
+
+const PASS_WRONG_MEMBER_5_TIMES = "wrong_pass:"
+
+const LIST_BUKU = "buku"
